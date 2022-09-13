@@ -49,15 +49,19 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "About me"
-      url = "blogs/about_me"
+      url = "about/about_me"
 
     [[params.navigation.links]]
       name = "CV"
       url = "https://drive.google.com/file/d/1asXXSISPAfNNEFQWynJ0TyIFubN2X_p8/view?usp=sharing"
 
     [[params.navigation.links]]
-      name = "Elements"
-      url = "elements.html"
+      name = "GDP components"
+      url = "blogs/gdp_components"
+      
+    [[params.navigation.links]]
+      name = "Excess bike rentals"
+      url = "blogs/excess_bike_rentals"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -67,14 +71,14 @@ disqusShortname = ""
     #    url = "UrlOfLink"
 
     # Button Style 1
-    [[params.navigation.button1]]
-      name = "Get Started"
-      url = "blogs"
+    #[[params.navigation.button1]]
+      #name = "Get Started"
+      #url = "blogs"
 
     # Button Style 2
-    [[params.navigation.button2]]
-      name = "Log In"
-      url = "#"
+    #[[params.navigation.button2]]
+      #name = "Log In"
+      #url = "#"
 
 
   # Banner section
@@ -95,7 +99,7 @@ disqusShortname = ""
       title = "About me"
       subtitle = "A short summary"
       image = "Alex.jpg"
-      url = "blogs/about_me"
+      url = "about/about_me"
 
     [[params.tiles.showcase]]
       title = "CV"
@@ -104,28 +108,28 @@ disqusShortname = ""
       url = "https://drive.google.com/file/d/1asXXSISPAfNNEFQWynJ0TyIFubN2X_p8/view?usp=sharing"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
+      title = "GDP components"
+      subtitle = "By country and year"
+      image = "gdp3.jpg"
+      url = "blogs/gdp_components"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
-      image = "pic04.jpg"
-      url = "blogs/ipsum"
+      title = "Excess bike rentals"
+      subtitle = "By week and year"
+      image = "bikes4.jpg"
+      url = "blogs/excess_bike_rentals"
 
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+      #title = "Consequat"
+      #subtitle = "Ipsum Dolor Sit Amet"
+      #image = "pic05.jpg"
+      #url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+    #[[params.tiles.showcase]]
+      #title = "Etiam"
+      #subtitle = "Feugiat Amet Tempus"
+      #image = "pic06.jpg"
+      #url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
@@ -138,12 +142,22 @@ disqusShortname = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    title = "My coding experience"
+    subtitle = """I possess significant coding experience with Python and R 
+    and I am able to use them for both regular applications and data analytics. 
+    I began using Python in my first academic year at UCL when I took the 
+    Introduction to Programming elective. I quickly developed a good 
+    understanding of programming algorithms and obtained a mark of 80 in that 
+    module. The following summer I took an online course called Introduction to 
+    Data Science in Python, which is where my interest in data science
+    originated from. The first time I have used R was in my final academic
+    year at UCL when I had to estimate the Value-at-Risk (VaR) of an equally 
+    weighted portfolio holding two stock indices, S&P500 and DAX, using a Monte 
+    Carlo simulation approach based on copula theory. I have since begun using R
+    more frequently as part of my Masters in Analytics and Management programme
+    at LBS. Other software programmes I have significant experience with include
+    Mathematica, Stata, and Excel. By clicking the button below you can see
+    some examples of code I have written in R."""
     buttonText = "Get Started"
     url = "blogs"
 

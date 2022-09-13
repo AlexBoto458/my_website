@@ -1,9 +1,9 @@
 ---
-title: "Lifestyle"
+title: "Coding experience"
 slug: "blogs"
-image: pic02.jpg
+image: r.png
 date: 2017-10-31T22:27:21-05:00
 draft: false
 ---
 
-My blogs about technology and lifestyle.
+Examples of R code written by me.
