@@ -96,9 +96,9 @@ theme = "forty"
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "About me"
+      title = "My story"
       subtitle = "A short summary"
-      image = "Alex.jpg"
+      image = "About_Me.png"
       url = "about/about_me"
 
     [[params.tiles.showcase]]
