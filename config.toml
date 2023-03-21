@@ -1,14 +1,14 @@
 # Site settings
 baseURL = "https://alexandru-botorog-portfolio.netlify.app"
 languageCode = "en-us"
-title = "Portfolio website for Kostis Christodoulou"
+title = "Alexandru Botorog Portfolio Website"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+#googleAnalytics = ""
 
 # Enter your disqus shortname to enable comments
-disqusShortname = ""
+#disqusShortname = ""
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Alexandru-Victor Botorog"
-  description = "Contains personal details, CV, and selected code written by Alexandru"
+  description = "Contains selected code written by Alexandru, as well as personal details and the CV"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -28,7 +28,7 @@ disqusShortname = ""
   favicon    = "favicon.ico"
 
   # Just a custom image variable, please define it in .md files for content.
-  image = ""
+  #image = ""
 
   # 404 error customization
   [params.error404]
@@ -37,8 +37,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Forty"
-    subtitle = "By HTML5 Up"
+    title = "Portfolio"
+    subtitle = "Website"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -53,7 +53,7 @@ disqusShortname = ""
 
     [[params.navigation.links]]
       name = "CV"
-      url = "https://drive.google.com/file/d/1asXXSISPAfNNEFQWynJ0TyIFubN2X_p8/view?usp=sharing"
+      url = "https://drive.google.com/file/d/1Hzfwj0XfdAdhCdzJWhXNUVWXDqyQR_Xz/view?usp=share_link"
 
     [[params.navigation.links]]
       name = "GDP components"
@@ -86,7 +86,7 @@ disqusShortname = ""
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
     title = "Hi, my name is Alexandru"
-    subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
+    subtitle = "Below you can view my story, CV, and several projets I have undertaken over the years"
     buttonText = "Get Started"
 
 
