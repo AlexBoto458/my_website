@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6cfee1e5e4f4cc3de6cac4917b731497edd896bce33943fffc5ff859f047c7d
-size 319
+[build] 
+  publish = "public"
+  command = "hugo"
+
+[build.environment]
+  HUGO_VERSION = "0.102.3"
+  HUGO_ENABLEGITINFO = "true"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+  
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.102.3"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.102.3"  
