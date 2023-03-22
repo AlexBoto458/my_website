@@ -115,7 +115,7 @@ theme = "forty"
 
     [[params.tiles.showcase]]
       title = "Predicting London House Prices"
-      subtitle = "Regression, Trees, KNN, Random Forests, Gradient Boosting, Stacking)
+      subtitle = "Regression, Trees, KNN, Random Forests, Gradient Boosting, Stacking"
       image = "London_house.jpg"
       url = "blogs/Alexandru_Botorog_Final_Individual_Project"
 
