@@ -56,8 +56,8 @@ theme = "forty"
       url = "https://drive.google.com/file/d/1Hzfwj0XfdAdhCdzJWhXNUVWXDqyQR_Xz/view?usp=share_link"
 
     [[params.navigation.links]]
-      name = "GDP components"
-      url = "blogs/gdp_components"
+      name = "Lending Club Logistic Regression"
+      url = "blogs/LogisticWorkshop2022"
       
     [[params.navigation.links]]
       name = "Excess bike rentals"
@@ -96,7 +96,7 @@ theme = "forty"
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "My story"
+      title = "About me"
       subtitle = "A short summary"
       image = "About_Me.png"
       url = "about/about_me"
@@ -108,10 +108,10 @@ theme = "forty"
       url = "https://drive.google.com/file/d/1asXXSISPAfNNEFQWynJ0TyIFubN2X_p8/view?usp=sharing"
 
     [[params.tiles.showcase]]
-      title = "GDP components"
-      subtitle = "By country and year"
-      image = "gdp3.jpg"
-      url = "blogs/gdp_components"
+      title = "Lending Club"
+      subtitle = "Logistic Regression Workshop"
+      image = "peer-to-peer_lending.jpg"
+      url = "blogs/LogisticWorkshop2022"
 
     [[params.tiles.showcase]]
       title = "Excess bike rentals"
