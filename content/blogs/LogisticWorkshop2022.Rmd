@@ -1,6 +1,6 @@
 ---
 title: "Workshop II: Classification with Logistic Regression"
-author: "Student Name"
+author: "Alexandru Botorog"
 output:
   html_document:
     theme: journal
