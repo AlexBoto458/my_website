@@ -56,12 +56,12 @@ theme = "forty"
       url = "https://drive.google.com/file/d/1Hzfwj0XfdAdhCdzJWhXNUVWXDqyQR_Xz/view?usp=share_link"
 
     [[params.navigation.links]]
-      name = "Lending Club Logistic Regression"
+      name = "Loan Defaults at Lending Club"
       url = "blogs/LogisticWorkshop2022"
       
     [[params.navigation.links]]
-      name = "Excess bike rentals"
-      url = "blogs/excess_bike_rentals"
+      name = "London House Prices"
+      url = "blogs/Alexandru_Botorog_Final_Individual_Project"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
@@ -108,16 +108,16 @@ theme = "forty"
       url = "https://drive.google.com/file/d/1asXXSISPAfNNEFQWynJ0TyIFubN2X_p8/view?usp=sharing"
 
     [[params.tiles.showcase]]
-      title = "Lending Club"
-      subtitle = "Logistic Regression Workshop"
+      title = "Predicting Loan Defaults at Lending Club"
+      subtitle = "Logistic Regression"
       image = "peer-to-peer_lending.jpg"
       url = "blogs/LogisticWorkshop2022"
 
     [[params.tiles.showcase]]
-      title = "Excess bike rentals"
-      subtitle = "By week and year"
-      image = "bikes4.jpg"
-      url = "blogs/excess_bike_rentals"
+      title = "Predicting London House Prices"
+      subtitle = "Regression, Trees, KNN, Random Forests, Gradient Boosting, Stacking)
+      image = "London_house.jpg"
+      url = "blogs/Alexandru_Botorog_Final_Individual_Project"
 
     #[[params.tiles.showcase]]
       #title = "Consequat"
