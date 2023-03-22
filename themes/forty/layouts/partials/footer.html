@@ -1,16 +1,3 @@
-{{ "<!-- Footer -->" | safeHTML}}
-    <footer id="footer">
-        <div class="inner">
-            <ul class="icons">
-                {{ range .Site.Params.Footer.social }}
-                    <li><a href="{{ .url | safeHTML }}" class="icon alt {{ .icon }}" target="_blank"><span class="label">{{ .label }}</span></a></li>
-                {{ end }}
-            </ul>
-            <ul class="copyright">
-                <li>&copy; {{ .Site.Params.Footer.copyright }}</li>
-                {{ range .Site.Params.Footer.quicklinks}}
-                <li>{{ .text }} <a href="{{ .url | safeHTML }}">{{ .alt }}</a></li>
-                {{ end }}
-            </ul>
-        </div>
-    </footer>
+version https://git-lfs.github.com/spec/v1
+oid sha256:176a676d6ace7400d7d6b9829994170cb195e0c59cf1203842f25a3ab27a8b1a
+size 685

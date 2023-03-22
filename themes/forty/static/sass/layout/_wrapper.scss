@@ -1,28 +1,3 @@
-///
-/// Forty by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
-/* Wrapper */
-
-	#wrapper {
-		@include vendor('transition', (
-			'filter #{_duration(menu)} ease',
-			'-webkit-filter #{_duration(menu)} ease',
-			'opacity 0.375s ease-out'
-		));
-		padding-top: 3.25em;
-
-		&.is-transitioning {
-			opacity: 0;
-		}
-
-		> * {
-			@include inner;
-		}
-
-		@include breakpoint(small) {
-			padding-top: 2.75em;
-		}
-	}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0af677d5afacdaae6ee23d41c769025818216d81dc3bc25a28cf47768f53f3d
+size 483

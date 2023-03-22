@@ -1,12 +1,3 @@
----
-title: "Aliquam"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "aliquam"
-image: pic07.jpg
-keywords: ""
-categories: 
-    - ""
-    - ""
-date: 2017-10-31T22:42:51-05:00
-draft: false
----
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc59d459557ed7c9d060c9a8daa935e5a52ce47b5fd5bf068f8f9f9afa67af8
+size 441

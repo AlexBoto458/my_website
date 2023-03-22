@@ -1,9 +1,3 @@
----
-title: "Coding experience"
-slug: "blogs"
-image: r.png
-date: 2017-10-31T22:27:21-05:00
-draft: false
----
-
-Examples of R code written by me.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1a36ebab9d1e1e383874a58ff756cd558e40d857169cf8d52eb3f71c40b5ef4
+size 141

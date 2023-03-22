@@ -1,12 +1,3 @@
----
-title: "Tempus"
-description: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus."
-slug: "tempus"
-image: pic08.jpg
-keywords: ""
-categories: 
-    - ""
-    - ""
-date: 2017-10-31T22:26:13-05:00
-draft: false
----
+version https://git-lfs.github.com/spec/v1
+oid sha256:91698642cabeec1f91523ee4ebe449d7e36c1707519d8220e5c24f00708e0a33
+size 439

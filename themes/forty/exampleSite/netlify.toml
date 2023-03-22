@@ -1,5 +1,3 @@
-[context.production.environment]
-  HUGO_VERSION = "0.31"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.31"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c577ed67a23f1d51b258f9e51410966ece0cd2fee52b8ebc3c027317ac0c5c9
+size 119

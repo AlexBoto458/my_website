@@ -1,22 +1,3 @@
-tidyverse
-ggplot2
-tibble
-tidyr
-readr
-purrr
-dplyr
-stringr
-forcats
-lubridate
-here
-skimr
-janitor
-vroom
-zoo
-xts
-PerformanceAnalytics
-TTR
-quantmod
-tidyquant
-rvest
-ggrepel
+version https://git-lfs.github.com/spec/v1
+oid sha256:16449be40ce2c50671fd03f354a4b1a58fda14452e4f53d4c3c011174c8f4e35
+size 166
